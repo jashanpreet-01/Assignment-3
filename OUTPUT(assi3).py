@@ -62,26 +62,13 @@ Error!!
 
 ########Ans 5
 
-
-###C1
-
-Number:7
- ABCDEFG
-  ABCDE
-   ABC
-    A
-
-
-###C2
-
-Number:13
- ABCDEFGHIJKLM
-  ABCDEFGHIJK
-   ABCDEFGHI
-    ABCDEFG
-     ABCDE
-      ABC
-       A
+Number:11
+ ABCDEFGHIJK
+  ABCDEFGHI
+   ABCDEFG
+    ABCDE
+     ABC
+      A
 
 
 ######Ans6
